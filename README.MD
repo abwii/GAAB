@@ -19,3 +19,5 @@ Projet Symfony avec utilisation de l'API Steam et d'une API pour la gestion de s
 ## Page 3 : Page utilisateur
 
 - Affiche tous les articles et commentaires d'un utilisateur.
+
+![image](https://media.discordapp.net/attachments/1151175484827242526/1181979748142960690/image.png?ex=6583076c&is=6570926c&hm=0b843ab99c85beb44bf63f3cd47703cb5f9b989506ec8b101b902aa13bc184fc&=&format=webp&quality=lossless)
